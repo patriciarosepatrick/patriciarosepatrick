@@ -29,19 +29,11 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patriciarosepatrick&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciarosepatrick&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
 
 ### 🔥 My GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=patriciarosepatrick&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -57,12 +49,12 @@
 
 ### 🎯 2026 Goals
 
-- [ ] Strengthen my DSA fundamentals
-- [ ] Solve more LeetCode problems independently
-- [ ] Build creative engineering projects
-- [ ] Explore Augmented and Virtual Reality
-- [ ] Contribute to open-source projects
-- [ ] Become a better problem solver
+- 1) Strengthen my DSA fundamentals
+- 2) Solve more LeetCode problems independently
+- 3) Build creative engineering projects
+- 4) Explore Augmented and Virtual Reality
+- 5) Contribute to open-source projects
+- 6) Become a better problem solver
 
 ---
 
