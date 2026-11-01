@@ -49,12 +49,12 @@
 
 ### 🎯 2026 Goals
 
-- 1) Strengthen my DSA fundamentals
-- 2) Solve more LeetCode problems independently
-- 3) Build creative engineering projects
-- 4) Explore Augmented and Virtual Reality
-- 5) Contribute to open-source projects
-- 6) Become a better problem solver
+- Strengthen my DSA fundamentals
+- Solve more LeetCode problems independently
+- Build creative engineering projects
+- Explore Augmented and Virtual Reality
+- Contribute to open-source projects
+- Become a better problem solver
 
 ---
 
